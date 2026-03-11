@@ -1,4 +1,4 @@
-namespace Calaculadora;
+namespace Calculadora;
 
 public class OperacionesMatematicas
 {
