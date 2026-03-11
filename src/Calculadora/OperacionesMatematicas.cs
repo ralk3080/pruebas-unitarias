@@ -29,5 +29,5 @@ public class OperacionesMatematicas
     public bool EsPar(int numero)
     {
         return numero % 2 == 0;
-    }
+    
 }
