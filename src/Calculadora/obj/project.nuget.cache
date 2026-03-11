@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DdmD0kQCdO8=",
+  "dgSpecHash": "K/8NZlA7a3g=",
   "success": true,
-  "projectFilePath": "C:\\CursoGit\\dia3PruebasUnitarias\\pruebas-unitarias\\Calculadora\\Calculadora.csproj",
+  "projectFilePath": "C:\\CursoGit\\dia3PruebasUnitarias\\pruebas-unitarias\\src\\Calculadora\\Calculadora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
